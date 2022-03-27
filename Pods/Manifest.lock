@@ -1,0 +1,33 @@
+PODS:
+  - Alamofire (5.0.0-rc.2)
+  - AlamofireObjectMapper (6.2.0):
+    - Alamofire (= 5.0.0-rc.2)
+    - ObjectMapper (~> 3.5.1)
+  - ObjectMapper (3.5.3)
+  - payHereSDK (2.3.1):
+    - Alamofire (~> 5.0.0-rc.2)
+    - AlamofireObjectMapper
+  - ToastUI (2.0.0)
+
+DEPENDENCIES:
+  - payHereSDK
+  - ToastUI
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AlamofireObjectMapper
+    - ObjectMapper
+    - payHereSDK
+    - ToastUI
+
+SPEC CHECKSUMS:
+  Alamofire: f9450d3c7f6bea2ad62e7a541c3e9b186c7991d6
+  AlamofireObjectMapper: 74d1440c92c42bbcc2b5f4dc81654ac095ec669f
+  ObjectMapper: 97111c97e054a6ee25917662106689f0b4127b37
+  payHereSDK: 7759657593a1045245114ee931f59330cb6dc2ad
+  ToastUI: 391eb9a1cc15e7ef4b79ee112e4a0b969259154f
+
+PODFILE CHECKSUM: e31490e2f790928e58f89f2dc90e489e6dcf0382
+
+COCOAPODS: 1.11.2
